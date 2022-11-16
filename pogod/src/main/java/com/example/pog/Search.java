@@ -74,11 +74,11 @@ public class Search {
                 break;
             }
             if (pogoda.get(1).text().contains("пасмурно")) {
-                a = "http://s2.fotokto.ru/photo/full/503/5032228.jpg";
+                a = "https://img5.goodfon.ru/wallpaper/nbig/8/b7/islandiia-nebo-tserkov-pole.jpg";
                 break;
             }
             if (pogoda.get(1).text().contains("облачно")) {
-                a = "http://s2.fotokto.ru/photo/full/503/5032228.jpg";
+                a = "https://img5.goodfon.ru/wallpaper/nbig/8/b7/islandiia-nebo-tserkov-pole.jpg";
                 break;
             }
         }
